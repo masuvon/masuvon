@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/142994302?s=400&u=f9ffdc451861a7f7d135b85da26d75617f061eb1&v=4" alt="Your Name" width="200" height="200">
-</div>
-
 # Hi there, I'm MD. ASRAFUZZAMAN SUVON👋
 
 🚀 Aspiring Software Engineer | Competitive Coder | Tech Explorer 🌟
