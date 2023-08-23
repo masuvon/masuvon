@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://dev-asrafuzzaman-officials.netlify.app/static/media/hero.fbf119dd.png" alt="Your Name" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/142994302?s=400&u=f9ffdc451861a7f7d135b85da26d75617f061eb1&v=4" alt="Your Name" width="200" height="200">
 </div>
 
 # Hi there, I'm [Your Name] 👋
