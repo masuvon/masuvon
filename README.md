@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://dev-asrafuzzaman-officials.netlify.app/static/media/hero.fbf119dd.png" alt="Your Name" width="200" height="200">
+</div>
 
-<!--
-**masuvon/masuvon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+🚀 Aspiring Software Engineer | Competitive Coder | Tech Explorer 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about coding and technology, with expertise in C/C++, Python, and JavaScript. Let's connect and collaborate!
+
+## 🛠️ Skills
+
+- **Languages:** C, C++, Python, JavaScript
+- **Web:** HTML
+- **Tools:** Fast Typing Speed, MS Office, Excel
+
+## 🔍 Interests
+
+- Competitive Programming 🏆
+- Exploring New Technologies 🌐
+- Singing Islamic Songs 🎤
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- Email: your.email@example.com
