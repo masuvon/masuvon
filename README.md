@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/142994302?s=400&u=f9ffdc451861a7f7d135b85da26d75617f061eb1&v=4" alt="Your Name" width="200" height="200">
 </div>
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm MD. ASRAFUZZAMAN SUVON👋
 
 🚀 Aspiring Software Engineer | Competitive Coder | Tech Explorer 🌟
 
@@ -22,5 +22,5 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, with e
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/eashovon)
+- Email: ashrafuzzaman.shovon.786@gmail.com
